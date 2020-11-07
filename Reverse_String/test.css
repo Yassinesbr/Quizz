@@ -1,0 +1,10 @@
+*{
+    margin: 10px;
+    padding: 10px;
+}
+
+.input{
+    border-radius: 10px;
+    border-color: darkgray;
+    border-style: solid;
+}
